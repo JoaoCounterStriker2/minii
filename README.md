@@ -1,5 +1,5 @@
 local whitelist = {
-    [7968179298] = true,  -- Substitua pelo UserId do "andrezinbrproffo"
+    [6176312089] = true,  -- Substitua pelo UserId do "Gabrielggproxd4"
     [6157160586] = true,  -- Substitua pelo UserId do "Eugostum241"
     [1352633098] = true,  -- Substitua pelo UserId do "derd232"
     [7120312422] = true,  -- Substitua pelo UserId do "zenitsu_games05"
