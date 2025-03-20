@@ -1,23 +1,6 @@
 local whitelist = {
     [6176312089] = true,  -- Substitua pelo UserId do "Gabrielggproxd4"
-    [6157160586] = true,  -- Substitua pelo UserId do "Eugostum241"
-    [1352633098] = true,  -- Substitua pelo UserId do "derd232"
-    [7120312422] = true,  -- Substitua pelo UserId do "zenitsu_games05"
-    [7120096478] = true,  -- Substitua pelo UserId do "670AHH008"
-    [3338710964] = true,  -- Substitua pelo UserId do "juilus49"
-    [3165143178] = true,  -- Substitua pelo UserId do "0_iiTzyDavi"
-    [4753654280] = true,   -- Substitua pelo UserId do "RADVCT"
-    [5866550978] = true,
-    [2821960941] = true,
-    [7556870973] = true, --ptzada
-    [1235165020] = true, --fredzeal3
-    [6029759687] = true, --ryzz
-    [4029044329] = true, --domcity
-    [8013883568] = true, --staff
-    [8013940418] = true, --silvaw
-    [3550378196] = true, --20reais
-    [1758882212] = true,
-    [1741653468] = true
+
 }
 
 local player = game.Players.LocalPlayer
