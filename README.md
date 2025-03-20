@@ -11,12 +11,12 @@ end
 
 local Luna = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-Softworks/Luna-Interface-Suite/refs/heads/main/source.lua", true))()
 local Window = Luna:CreateWindow({
-    Name = "MMD Auto Peças - Version 1.2", 
-    Subtitle = "Feito por carplacer", 
+    Name = "Mod Menu Paid", 
+    Subtitle = "Feito por DevFelp", 
     LogoID = "82795327169782", 
     LoadingEnabled = true, 
-    LoadingTitle = "carplacer te amaa!", 
-    LoadingSubtitle = "by carplacer", 
+    LoadingTitle = "felp ama vc!", 
+    LoadingSubtitle = "by felp", 
     ConfigSettings = {
         RootFolder = nil, 
         ConfigFolder = "Big Hub" 
