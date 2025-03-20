@@ -226,14 +226,14 @@ end
 
 Tab:CreateSection("Auto CL config")
 local Toggle = Tab:CreateToggle({
-    Name = "Auto CL",
+    Name = "Cl Automatico",
     CurrentValue = getgenv().KickOnLowHealth,
     Callback = function(Value)
         getgenv().KickOnLowHealth = Value
     end
 })
 local Slider = Tab:CreateSlider({
-    Name = "Kick quando vida =",
+    Name = "CL com vida =",
     Range = {0, 100},
     Increment = 1,
     CurrentValue = getgenv().HealthThreshold,
@@ -243,7 +243,7 @@ local Slider = Tab:CreateSlider({
 })
 Tab:CreateSection("Outros")
 local Button = Tab:CreateButton({
-    Name = "Low server hop", 
+    Name = "Ir para server menor do jogo", 
     Description = "Troca pro menor servidor do jogo", 
     Callback = function()
 
